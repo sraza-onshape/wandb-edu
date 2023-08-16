@@ -15,6 +15,7 @@ vector_store
 *.pkl
 .chroma
 flagged
+env/
 
 # Jupyter Notebook
 .ipynb_checkpoints
